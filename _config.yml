@@ -79,5 +79,5 @@ theme: landscape
 deploy:
   type: git
   branch: master
-  repo: git@github.com:ZerooreZ123/ZerooreZ123.github.io.git
+  repo: https://github.com/ZerooreZ123
 
